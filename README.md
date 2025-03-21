@@ -1,2 +1,2 @@
 # test_https-awesomeqa.com-ui
-https://awesomeqa.com/ui_test case
+https://awesomeqa.com/ui test_case
